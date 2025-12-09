@@ -3,8 +3,8 @@ page: source
 title: Image_№1_from_Introduction
 media_type: image
 
-_title: Apple tree
-description: Main page photo
+_title: Image 1
+description: Transcription 1
 creator: Unknown
 _date: Unknown
 rights: CC BY
@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: /assets/img/main_page.jpg 
+_path: /assets/img/picture1.png
 order: '01'
 layout: image_description
 ---
