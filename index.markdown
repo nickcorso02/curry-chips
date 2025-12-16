@@ -89,7 +89,6 @@ _Arthur exits and Kenny continues his work_.
 
 **Photo Two: Racist Remark**
 
-{% include media_next.html pages=media %}
 
 **2:21-3:48**
 
